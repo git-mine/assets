@@ -1,1 +1,2 @@
-# assets
+# Assets for Git-Mine
+
